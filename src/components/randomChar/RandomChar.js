@@ -5,7 +5,7 @@ import MarvelService from '../../services/MarvelService';
 
 import './randomChar.scss';
 import mjolnir from '../../resources/img/mjolnir.png';
-
+//AddComment
 class RandomChar extends Component {
     state = {
         char: {},
